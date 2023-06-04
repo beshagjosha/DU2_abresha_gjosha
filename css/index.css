@@ -90,15 +90,15 @@ body {}
 }
 
 #top_images> :nth-child(1) {
-  background-image: url("../media/geo_images/sweden_normal_1.jpg");
+  background-image: url("../media/geo_images/london_normal_2.jpg");
 }
 
 #top_images> :nth-child(2) {
-  background-image: url("../media/geo_images/sweden_normal_2.jpg");
+  background-image: url("../media/geo_images/malmo_normal_2.jpg");
 }
 
 #top_images> :nth-child(3) {
-  background-image: url("../media/geo_images/sweden_normal_3.jpg");
+  background-image: url("../media/geo_images/madrid_normal_3.jpg");
 }
 
 
